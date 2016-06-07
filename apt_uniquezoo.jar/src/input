@@ -1,0 +1,10 @@
+["zebra bear fox elephant", "bear crocodile fox", "rhino elephant crocodile kangaroo", "elephant bear"] 2 2
+["fox", "python", "goat", "bear", "zebra"] 5 5
+["zebra"] 1 1
+["zebra bear"] 1 1
+["fox ostrich bear rhino crocodile kangaroo", "rhino bear", "ostrich crocodile", "zebra bear", "tiger leopard", "flamingo rhino ostrich"] 4 4 
+["a b c d e", "f g h i j k", "l m", "n o", "p q r", "s t v w", "x y z"] 7 7 
+["a b c d e", "f g h i j k", "l m n o p", "c h n"] 3 3 
+["a b c d e", "f g h i j k", "l m n o p", "a b c d e f g h i j k l m n o p q r s t u v w x y z", "q r s t u", "v w x", "y z"] 0 0 
+["fox bear", "elephant rhino", "fox elephant", "bear rhino"] 0 0 
+["fox bear", "elephant rhino", "fox elephant" "bear rhino", "ostrich bear", "elephant rhino bear"] 1 1

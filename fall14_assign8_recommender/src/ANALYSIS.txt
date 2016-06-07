@@ -1,0 +1,75 @@
+I determined the three functions I wrote were correct by doing examples by hand and checking the results
+
+I also print statements as I went along to make sure everything was going according to plan
+
+I debugged code by using print statements and seeing what was missing at each step
+
+The results of the analysis are below:
+
+As you can see the results begin to somewhat settle as n increases but every once in a while some rater comes in and changes the rankings by enough
+
+The average ratings for each item reviewed is (in decreasing order):
+[('Garth Nix,Sabriel', 4), ("Douglas Adams,The Hitchhiker's Guide To The Galaxy", 3), ("Orson Scott Card,Ender's Game", 3), ('Suzanne Collins,The Hunger Games', 3), ('William Goldman,The Princess Bride', 3), ('Guy Gavriel Kay,The Summer Tree', 3), ('C S Lewis,The Lion the Witch and the Wardrobe', 3), ('Robert Ludlum,The Bourne Series', 3), ('Gary Paulsen,Hatchet', 3), ("Jodi Picoult,My Sister's Keeper", 3), ('J.K. Rowling,Harry Potter Series', 3), ('Louis Sachar,Holes', 3), ('Shueisha,Shonen Jump Series', 3), ("Art Spiegelman,Maus: A Survivor's Tale", 3), ('J R R Tolkien,The Lord of the Rings', 3), ('Isaac Asimov,Foundation Series', 2), ('Libba Bray,A Great and Terrible Beauty', 2), ('Dan Brown,The Da Vinci Code', 2), ('Tom Clancy,The Hunt for Red October', 2), ('Cornelia Funke,Inkheart', 2), ('William Gibson,Neuromancer', 2), ('Daniel Keyes,Flowers For Algernon', 2), ('Tite Kubo,Bleach (graphic novel)', 2), ('George Orwell,Nineteen Eighty-Four (1984)', 2), ('Christopher Paolini,Eragon', 2), ('Philip Pullman,The Golden Compass', 2), ('Jeff Smith,Bone Series', 2), ('Amy Tan,The Joy Luck Club', 2), ('J R R Tolkien,The Hobbit', 2), ('Eric Walters,Shattered', 2), ('H G Wells,The War Of The Worlds', 2), ('Patricia C. Wrede,Dealing with Dragons', 2), ('Richard Adams,Watership Down', 1), ('Mitch Albom,The Five People You Meet in Heaven', 1), ('Laurie Halse Anderson,Speak', 1), ('F. Scott Fitzgerald,The Great Gatsby', 1), ("John Flanagan,Ranger's Apprentice Series", 1), ('William Golding,Lord of the Flies', 1), ('Will Hobbs,Far North', 1), ('Aldous Huxley,Brave New World', 1), ('Patrice Kindl,Owl in Love', 1), ('Masashi Kishimoto,Naruto', 1), ('Elizabeth Laird,Kiss the Dust', 1), ('Harper Lee,To Kill a Mockingbird', 1), ('John Wyndham,The Chrysalids', 1), ('Ann Brashares,The Sisterhood of the Travelling Pants', 0), ('Meg Cabot,The Princess Diaries', 0), ('James Gurney,Dinotopia: A Land Apart from Time', 0), ('Alice Hoffman,Practical Magic', 0), ('Yann Martel,Life of Pi', 0), ('Lurlene McDaniel,Breathless', 0), ('Stephenie Meyer,Twilight Series', 0), ('Neil Shusterman,The Shadow Club', 0), ('Maya Angelou,I Know Why the Caged Bird Sings', -1), ('Jay Asher,Thirteen Reasons Why', -1)]
+
+Megan's closest matches are these (in decreasing order):
+[('Shannon', 335), ('ROFLOL', 329), ('Cust8', 304), ('Owen', 270), ('Moose', 218), ('Claire', 207), ('Ben', 201), ('Mike', 193), ('matt c', 191), ('Tiffany', 191), ('andrew', 186), ('joe', 180), ('KeeLed', 165), ('Cust7', 164), ('Brian', 164), ('Douglas Anderson', 164), ('Cust6', 163), ('Mike Williams', 156), ('NaRwHaLs', 155), ('hidan', 155), ('Zax', 155), ('Iren', 150), ('Sidney', 149), ('Cust1', 148), ('Francois', 148), ('Leslie', 145), ('clipper', 140), ('McLean', 140), ('ender', 139), ('Hideo', 133), ('Mark', 122), ('Rosanna', 121), ('Ocelot', 121), ('YJAM', 119), ('Cust5', 117), ('snoosh', 116), ('Cust2', 114), ('Jim C', 99), ('Strongbad', 95), ('Zachary', 92), ('Cust10', 91), ('Ella', 87), ('NuNu', 85), ('ParseClaws', 85), ('SubRia', 81), ('Cust3', 79), ('Anna-Carol', 73), ('Hamza ALi', 70), ('Nathan', 70), ('sage32', 61), ('Don Wang', 57), ('Cedric Jones', 57), ('Sanity', 55), ('crom', 46), ('Reuven', 45), ('dencellia', 45), ('Jaluka', 43), ('Priscilla', 41), ('Huxil', 40), ('Martin', 40), ('Dude', 39), ('Harry Potter', 36), ('Cust9', 34), ('Sam', 27), ('Jeremy', 24), ('Alexandra', 24), ('Rudy A', 24), ('I. Ned', 22), ('Leah', 15), ('Boxxy', 15), ('Pablo Sanchez', 14), ('McLovin', 14), ('James', 12), ('Rudy Ann', 11), ('Albus Dumbledore', 9), ('Joshua', 9), ('chrispeh', 9), ('ma', 6), ('Cust4', 5), ('David', -2), ('Brix', -2), ('Apollo', -6), ('Scream', -10), ('Tony', -21), ('J-Rok', -25)]
+
+Megan is most recommended these 5 item(s) reviewed based on the 1 closest rater(s):
+[('Dan Brown,The Da Vinci Code', 1675), ('Meg Cabot,The Princess Diaries', 1675), ('Cornelia Funke,Inkheart', 1675), ('William Goldman,The Princess Bride', 1675), ('Masashi Kishimoto,Naruto', 1675)]
+
+Megan is most recommended these 5 item(s) reviewed based on the 2 closest rater(s):
+[('Cornelia Funke,Inkheart', 3320), ('William Goldman,The Princess Bride', 3320), ('Masashi Kishimoto,Naruto', 3320), ('C S Lewis,The Lion the Witch and the Wardrobe', 3320), ('Robert Ludlum,The Bourne Series', 3320)]
+
+Megan is most recommended these 5 item(s) reviewed based on the 3 closest rater(s):
+[('William Goldman,The Princess Bride', 4840), ('C S Lewis,The Lion the Witch and the Wardrobe', 4840), ('Stephenie Meyer,Twilight Series', 4840), ('Christopher Paolini,Eragon', 4840), ("Jodi Picoult,My Sister's Keeper", 4840)]
+
+Megan is most recommended these 5 item(s) reviewed based on the 4 closest rater(s):
+[('William Goldman,The Princess Bride', 6190), ('C S Lewis,The Lion the Witch and the Wardrobe', 6190), ('J.K. Rowling,Harry Potter Series', 6190), ('Louis Sachar,Holes', 6190), ('J R R Tolkien,The Lord of the Rings', 6190)]
+
+Megan is most recommended these 5 item(s) reviewed based on the 5 closest rater(s):
+[('C S Lewis,The Lion the Witch and the Wardrobe', 7280), ('J.K. Rowling,Harry Potter Series', 7280), ('J R R Tolkien,The Lord of the Rings', 7280), ('J R R Tolkien,The Hobbit', 7280), ('William Goldman,The Princess Bride', 6190)]
+
+Megan is most recommended these 5 item(s) reviewed based on the 6 closest rater(s):
+[('C S Lewis,The Lion the Witch and the Wardrobe', 8315), ('J.K. Rowling,Harry Potter Series', 8315), ('J R R Tolkien,The Lord of the Rings', 8315), ('J R R Tolkien,The Hobbit', 8315), ('Louis Sachar,Holes', 7225)]
+
+Megan is most recommended these 5 item(s) reviewed based on the 7 closest rater(s):
+[('J.K. Rowling,Harry Potter Series', 9320), ('J R R Tolkien,The Hobbit', 9320), ('C S Lewis,The Lion the Witch and the Wardrobe', 8918), ('J R R Tolkien,The Lord of the Rings', 8315), ('Louis Sachar,Holes', 8230)]
+
+Megan is most recommended these 5 item(s) reviewed based on the 8 closest rater(s):
+[('J.K. Rowling,Harry Potter Series', 9899), ('J R R Tolkien,The Hobbit', 9899), ('C S Lewis,The Lion the Witch and the Wardrobe', 9883), ('J R R Tolkien,The Lord of the Rings', 9280), ("Douglas Adams,The Hitchhiker's Guide To The Galaxy", 8467)]
+
+Megan is most recommended these 5 item(s) reviewed based on the 9 closest rater(s):
+[('J.K. Rowling,Harry Potter Series', 10854), ('J R R Tolkien,The Hobbit', 10854), ('C S Lewis,The Lion the Witch and the Wardrobe', 10456), ('J R R Tolkien,The Lord of the Rings', 10235), ('Louis Sachar,Holes', 8803)]
+
+Megan is most recommended these 5 item(s) reviewed based on the 10 closest rater(s):
+[('J.K. Rowling,Harry Potter Series', 11809), ('J R R Tolkien,The Hobbit', 11809), ('C S Lewis,The Lion the Witch and the Wardrobe', 11411), ('J R R Tolkien,The Lord of the Rings', 11190), ('Louis Sachar,Holes', 9758)]
+
+Megan is most recommended these 5 item(s) reviewed based on the 11 closest rater(s):
+[('J.K. Rowling,Harry Potter Series', 12367), ('J R R Tolkien,The Hobbit', 12367), ('C S Lewis,The Lion the Witch and the Wardrobe', 12341), ('J R R Tolkien,The Lord of the Rings', 12120), ('Louis Sachar,Holes', 9758)]
+
+Megan is most recommended these 5 item(s) reviewed based on the 12 closest rater(s):
+[('J R R Tolkien,The Hobbit', 13267), ('J.K. Rowling,Harry Potter Series', 12907), ('C S Lewis,The Lion the Witch and the Wardrobe', 12881), ('J R R Tolkien,The Lord of the Rings', 12300), ("Douglas Adams,The Hitchhiker's Guide To The Galaxy", 10138)]
+
+Megan is most recommended these 5 item(s) reviewed based on the 13 closest rater(s):
+[('J.K. Rowling,Harry Potter Series', 13732), ('J R R Tolkien,The Hobbit', 13432), ('C S Lewis,The Lion the Witch and the Wardrobe', 12881), ('J R R Tolkien,The Lord of the Rings', 12795), ('Louis Sachar,Holes', 10583)]
+
+Megan is most recommended these 5 item(s) reviewed based on the 14 closest rater(s):
+[('J.K. Rowling,Harry Potter Series', 14552), ('C S Lewis,The Lion the Witch and the Wardrobe', 13701), ('J R R Tolkien,The Hobbit', 13432), ('J R R Tolkien,The Lord of the Rings', 12795), ('Louis Sachar,Holes', 10583)]
+
+Megan is most recommended these 5 item(s) reviewed based on the 15 closest rater(s):
+[('J.K. Rowling,Harry Potter Series', 15372), ('J R R Tolkien,The Hobbit', 14252), ('C S Lewis,The Lion the Witch and the Wardrobe', 13701), ('J R R Tolkien,The Lord of the Rings', 13287), ('Louis Sachar,Holes', 11075)]
+
+Megan is most recommended these 5 item(s) reviewed based on the 16 closest rater(s):
+[('J.K. Rowling,Harry Potter Series', 16192), ('J R R Tolkien,The Hobbit', 15072), ('J R R Tolkien,The Lord of the Rings', 13779), ('C S Lewis,The Lion the Witch and the Wardrobe', 13701), ("Douglas Adams,The Hitchhiker's Guide To The Galaxy", 11778)]
+
+Megan is most recommended these 5 item(s) reviewed based on the 17 closest rater(s):
+[('J.K. Rowling,Harry Potter Series', 17007), ('J R R Tolkien,The Hobbit', 15072), ('J R R Tolkien,The Lord of the Rings', 13779), ('C S Lewis,The Lion the Witch and the Wardrobe', 13701), ('Louis Sachar,Holes', 12382)]
+
+Megan is most recommended these 5 item(s) reviewed based on the 18 closest rater(s):
+[('J.K. Rowling,Harry Potter Series', 17787), ('J R R Tolkien,The Hobbit', 14604), ('J R R Tolkien,The Lord of the Rings', 13935), ('C S Lewis,The Lion the Witch and the Wardrobe', 13857), ('Louis Sachar,Holes', 12850)]
+
+Megan is most recommended these 5 item(s) reviewed based on the 19 closest rater(s):
+[('J.K. Rowling,Harry Potter Series', 17322), ('J R R Tolkien,The Hobbit', 15379), ('J R R Tolkien,The Lord of the Rings', 14710), ('C S Lewis,The Lion the Witch and the Wardrobe', 14322), ('Louis Sachar,Holes', 13315)]
+
+Megan is most recommended these 5 item(s) reviewed based on the 20 closest rater(s):
+[('J.K. Rowling,Harry Potter Series', 18097), ('J R R Tolkien,The Hobbit', 16154), ('J R R Tolkien,The Lord of the Rings', 15485), ('C S Lewis,The Lion the Witch and the Wardrobe', 14787), ('Louis Sachar,Holes', 14090)]

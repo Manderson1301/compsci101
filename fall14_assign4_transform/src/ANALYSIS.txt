@@ -1,0 +1,9 @@
+Miguel Anderson - ANALYSIS.txt
+
+In order to find out whether the text is in pig-latin or rot13 I could check if at least 5 (or some significant percentage of the total amount of) words ends with "ay" or has no vowels, respectively.
+
+Though some words in normal English have end with "ay" or have no vowels it is definitely not a significant percentage of any given text and therefore using a while for a counter as the percentage of the total amount of words should indicate whether it is transformed or not.
+
+The code for decoding rot13 is identical to encoding rot13.
+
+The code for decoding pig-latin is done by deleting the "ay" and bringing the preceding letters to "ay" to the front. The problem with this is that pig-latin encoding is not injective.

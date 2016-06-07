@@ -1,0 +1,20 @@
+soccer
+football
+baseball
+cricket
+golf
+basketball
+rugby
+jousting
+water polo
+polo
+hockey
+curling
+surfing
+volleyball
+badminton
+lacrosse
+racing
+tennis
+bowling
+poker
